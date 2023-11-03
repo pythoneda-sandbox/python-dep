@@ -1,2 +1,3 @@
-# sandbox-dep
-A dependency used by rydnr/sandbox
+# pythoneda-sandbox/python-dep
+
+A dependency used by pythoneda-sandbox/python
